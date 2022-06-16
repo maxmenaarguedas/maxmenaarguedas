@@ -6,13 +6,13 @@
 
 **Agile and forward-thinking System Engineer** with proven track record of **delivering optimizing solutions while
 collaborating in dynamic environments.** Recognized for providing **personalized client experiences** and
-performing as **key collaborator** within teams, offers **  **.
+performing as **key collaborator** within teams, offers **knowledgeable solutions and autodidactic abilities**.
 
 ### **Work History**
 ---
 ### Business analyst 
 
-(Grupo Mutual) **Financial entity** *07-2016 | 10-2018*
+(Grupo Mutual) **Financial entity** *07-2016 - 10-2018*
 
 * Leader in improvement projects, in Oracle for compliance with superintendence regulations, for production and closure environments. 
 
@@ -21,11 +21,12 @@ performing as **key collaborator** within teams, offers **  **.
 * Development of tools in Access to eliminate the manual search for information, saving 80% of time. 
 
 * Trusted the training 5 co-workers on issues related to the regulation of the superintendency and company systems. 
+
 ---
 
 ### NPI site enablement 
 
-**HPE** *2018-10 | 2020-09*
+**HPE** *2018-10 - 2020-09*
 
 * Responsible for the execution of production line tests for the approval of new products. 
 
@@ -36,7 +37,7 @@ performing as **key collaborator** within teams, offers **  **.
 
 ### Global supply planner
 
-**HPE** *2020-09 | current*
+**HPE** *2020-09 - current*
 
 * Maintenance of the supply within the expected metrics, based on the forecast demand. 
 
