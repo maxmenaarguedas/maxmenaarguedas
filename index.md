@@ -33,6 +33,7 @@ performing as **key collaborator** within teams, offers **knowledgeable solution
 * Physical supervision of the plants in Mexico, Ciudad Juárez, to control the process and improve order delivery. 
 
 * Member of the main team in charge of the migration of products produced between plants. Approx. 5000. 
+
 ---
 
 ### Global supply planner
